@@ -1,4 +1,4 @@
-# Embedded Vision System
+# Embedded Vision System (EVS)
 
 ## Overview
 
