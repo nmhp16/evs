@@ -1,0 +1,7 @@
+-IC:/Users/minhh/vcpkg/installed/x64-windows/include
+-IC:/Users/minhh/OneDrive/Desktop/CS/evsProject
+-DWIN32
+--compiler-flavor=msvc
+-o
+C:/Users/minhh/OneDrive/Desktop/CS/evsProject/build/moc_mainwindow.cpp
+C:/Users/minhh/OneDrive/Desktop/CS/evsProject/mainwindow.h

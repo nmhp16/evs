@@ -1,0 +1,3 @@
+C:/Users/minhh/OneDrive/Desktop/CS/evsProject/build/CMakeFiles/EmbeddedVisionSystem.dir
+C:/Users/minhh/OneDrive/Desktop/CS/evsProject/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/minhh/OneDrive/Desktop/CS/evsProject/build/CMakeFiles/ZERO_CHECK.dir

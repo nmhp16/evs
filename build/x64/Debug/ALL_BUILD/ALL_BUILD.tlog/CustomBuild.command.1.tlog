@@ -1,0 +1,10 @@
+^C:\USERS\MINHH\ONEDRIVE\DESKTOP\CS\EVSPROJECT\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/minhh/OneDrive/Desktop/CS/evsProject -BC:/Users/minhh/OneDrive/Desktop/CS/evsProject/build --check-stamp-file C:/Users/minhh/OneDrive/Desktop/CS/evsProject/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

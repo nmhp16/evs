@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\minhh\OneDrive\Desktop\CS\evsProject\build\EmbeddedVisionSystem_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\minhh\OneDrive\Desktop\CS\evsProject\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\minhh\OneDrive\Desktop\CS\evsProject\mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\minhh\OneDrive\Desktop\CS\evsProject\face_detector.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\minhh\OneDrive\Desktop\CS\evsProject\build\moc_mainwindow.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\minhh\OneDrive\Desktop\CS\evsProject\build\EmbeddedVisionSystem_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\minhh\OneDrive\Desktop\CS\evsProject\build\EmbeddedVisionSystem_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\minhh\OneDrive\Desktop\CS\evsProject\build\EmbeddedVisionSystem_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\minhh\OneDrive\Desktop\CS\evsProject\mainwindow.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\minhh\OneDrive\Desktop\CS\evsProject\face_detector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\minhh\OneDrive\Desktop\CS\evsProject\build\CMakeFiles\915c8fda2c06000a2480197b5a9883e1\moc_mainwindow.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\minhh\OneDrive\Desktop\CS\evsProject\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{2D065146-E35F-3DD0-8159-6132F879AB42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CB4644CC-6889-3C21-B9C5-E4643C7AE03E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{52EC17B6-B77E-3F52-879B-28276459C5CB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

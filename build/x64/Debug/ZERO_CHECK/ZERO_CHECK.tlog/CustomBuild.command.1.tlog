@@ -1,0 +1,10 @@
+^C:\USERS\MINHH\ONEDRIVE\DESKTOP\CS\EVSPROJECT\BUILD\CMAKEFILES\DE03A9BD22DE31C4B8722E8825140E00\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/minhh/OneDrive/Desktop/CS/evsProject -BC:/Users/minhh/OneDrive/Desktop/CS/evsProject/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/minhh/OneDrive/Desktop/CS/evsProject/build/EmbeddedVisionSystem.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
