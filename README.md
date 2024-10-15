@@ -58,6 +58,8 @@ The application also allows users to take snapshots and save them to disk.
     ```bash
     ./your-application
     ```
+    or Run
+   (`build\Debug\EmbeddedVisionSystem.exe`)
 
 ## Usage
 
