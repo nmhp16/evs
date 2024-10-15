@@ -3,7 +3,8 @@
 ## Overview
 
 This project is a real-time face detection application developed using OpenCV and Qt. 
-It captures video from the default camera, performs face detection, and displays the video with detected faces and frame rate information. 
+It captures video from the default camera and performs face detection.
+Displays the video with head counts for detected faces, date and time, and frame rate information. 
 The application also allows users to take snapshots and save them to disk.
 
 ## Features
