@@ -34,8 +34,8 @@ The application also allows users to take snapshots and save them to disk.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repository.git
-    cd your-repository
+    git clone https://github.com/nmhp16/evs
+    cd evs
     ```
 
 2. Create a build directory and navigate into it:
@@ -56,7 +56,8 @@ The application also allows users to take snapshots and save them to disk.
 
 5. Run the application:
     ```bash
-    ./your-application
+    cd Debug
+    EmbeddedVisionSystem.exe
     ```
     or Run
    (`build\Debug\EmbeddedVisionSystem.exe`)
