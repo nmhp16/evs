@@ -22,8 +22,8 @@ The application also allows users to take snapshots and save them to disk.
 - **OpenCV**: For face detection and video processing.
 - **CMake**: For building the project.
 - **Caffe Model**: The pre-trained Caffe deep learning model for face detection.
- - [Deploy.prototxt](path/to/deploy.prototxt)
- - [Caffemodel file](path/to/res10_300x300_ssd_iter_140000.caffemodel)
+  - [Deploy.prototxt](path/to/deploy.prototxt)
+  - [Caffemodel file](path/to/res10_300x300_ssd_iter_140000.caffemodel)
 
 ## Installation
 
