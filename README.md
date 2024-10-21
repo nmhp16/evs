@@ -9,7 +9,7 @@ The application also allows users to take snapshots and save them to disk.
 
 ## Features
 
-- Real-time face detection using a pre-trained deep learning model.
+- Real-time face detection using a pre-trained Caffe deep learning model.
 - Custom GUI for video playback control (play, pause, reset) and snapshot capture.
 - Real-time video processing with overlayed date and time.
 - Perform head count on all detected faces.
