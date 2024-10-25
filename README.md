@@ -41,9 +41,8 @@ The application also allows users to take snapshots and save them to disk.
     cd evs
     ```
 
-2. Create a build directory and navigate into it:
+2. Navigate to build:
     ```bash
-    mkdir build
     cd build
     ```
 
