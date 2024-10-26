@@ -18,8 +18,8 @@ MainWindow::MainWindow(QWidget *parent)
     ui->setupUi(this);
 
     // Initialize FaceDetector
-    faceDetector = new FaceDetector("C:/Users/minhh/OneDrive/Desktop/CS/evsProject/build/Debug/deploy.prototxt",
-                                    "C:/Users/minhh/OneDrive/Desktop/CS/evsProject/build/Debug/res10_300x300_ssd_iter_140000.caffemodel");
+    faceDetector = new FaceDetector("deploy.prototxt",
+                                    "res10_300x300_ssd_iter_140000.caffemodel");
 
     // Initialize QTimer for frame processing
     timer = new QTimer(this);
